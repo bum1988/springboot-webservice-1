@@ -15,12 +15,6 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by jojoldu@gmail.com on 2017. 12. 23.
- * Blog : http://jojoldu.tistory.com
- * Github : https://github.com/jojoldu
- */
-
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class PostsRepositoryTest {

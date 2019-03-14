@@ -1,6 +1,6 @@
-package com.jojoldu.webservice.web;
+package com.yb.webservice.web;
 
-import com.jojoldu.webservice.service.PostsService;
+import com.yb.webservice.service.PostsService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

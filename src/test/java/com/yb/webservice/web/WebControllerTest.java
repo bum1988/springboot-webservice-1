@@ -1,4 +1,4 @@
-package com.jojoldu.webservice.web;
+package com.yb.webservice.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

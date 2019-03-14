@@ -1,8 +1,8 @@
-package com.jojoldu.webservice.service;
+package com.yb.webservice.service;
 
-import com.jojoldu.webservice.domain.posts.Posts;
-import com.jojoldu.webservice.domain.posts.PostsRepository;
-import com.jojoldu.webservice.dto.posts.PostsSaveRequestDto;
+import com.yb.webservice.domain.posts.Posts;
+import com.yb.webservice.domain.posts.PostsRepository;
+import com.yb.webservice.dto.posts.PostsSaveRequestDto;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -31,7 +31,7 @@ public class PostServiceTest {
     public void Dto데이터가_posts테이블에_저장된다 () {
         //given
         PostsSaveRequestDto dto = PostsSaveRequestDto.builder()
-                .author("jojoldu@gmail.com")
+                .author("bum1988@naver.com")
                 .content("테스트")
                 .title("테스트 타이틀")
                 .build();

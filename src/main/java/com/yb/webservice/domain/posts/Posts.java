@@ -1,6 +1,6 @@
-package com.jojoldu.webservice.domain.posts;
+package com.yb.webservice.domain.posts;
 
-import com.jojoldu.webservice.domain.BaseTimeEntity;
+import com.yb.webservice.domain.BaseTimeEntity;
 import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;

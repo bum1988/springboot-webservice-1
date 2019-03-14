@@ -1,4 +1,4 @@
-package com.jojoldu.webservice.domain;
+package com.yb.webservice.domain;
 
 import lombok.Getter;
 import lombok.Setter;

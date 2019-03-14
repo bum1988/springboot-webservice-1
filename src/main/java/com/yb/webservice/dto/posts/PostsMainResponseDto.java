@@ -1,6 +1,6 @@
-package com.jojoldu.webservice.dto.posts;
+package com.yb.webservice.dto.posts;
 
-import com.jojoldu.webservice.domain.posts.Posts;
+import com.yb.webservice.domain.posts.Posts;
 import lombok.Getter;
 
 import java.time.LocalDateTime;
